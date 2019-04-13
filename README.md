@@ -1,5 +1,5 @@
-# 3d_mesh_descriptor
-Python project focussing on applications involving describing genus-0 meshes using spherical harmonics.
+# 3D Mesh Descriptor
+Python project focussing on applications involving describing genus-0 meshes using spherical harmonics.  
 Currently just a very basic initial implementation.
 
 ## Installation
